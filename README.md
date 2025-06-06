@@ -50,7 +50,7 @@
   - Seating: 5-seater cars are the most popular, likely because they suit small families and everyday use.
   - Brands: Maruti leads as the most common brand, followed by Hyundai and Honda.
 
-# Price-related Insights from Numerical Features:
+ ### Price-related Insights from Numerical Features:
   - Weak negative correlation between Price and Kilometers Driven: Cars with higher kilometers tend to have slightly lower prices.
   - Very small positive correlation between Price and Mileage: Cars with better mileage may have slightly higher prices, but effect is minimal.
   - Moderate positive correlation between Engine Size and Price: Larger engines tend to command higher prices.
