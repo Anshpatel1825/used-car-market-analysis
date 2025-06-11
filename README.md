@@ -27,19 +27,19 @@
   - Created visualizations including histograms, box plots, count plots, pair plots, violin plots, and heatmaps to aid interpretation.
 
 # Sample Visualizations
-### Price Distribution
+## Price Distribution
   - Histogram and box plot display the resale price distribution, highlighting common price ranges and spotting outliers.
 
-### Category Counts
+## Category Counts
   - Count plots illustrate the frequency of different categories such as popular car brands, fuel types, and transmission types.
 
-### Price vs Numerical Features
+## Price vs Numerical Features
   - Pair plots compare Price with numeric features like Kilometers Driven, Engine Size, Power, Mileage, and Seats to find patterns.
 
-### Price vs Categorical Features
+## Price vs Categorical Features
 - Violin plots show how Price varies with Fuel Type, Transmission, and Owner Type, providing insights into customer preferences.
 
-### Correlation Heatmap
+## Correlation Heatmap
   - A heatmap displays correlations between numerical features including Price, Kilometers Driven, Engine, Power, Mileage, and Seats to identify strongest influencers on price.
 
 # Key Insights
